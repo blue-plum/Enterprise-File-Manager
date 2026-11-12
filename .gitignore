@@ -1,0 +1,19 @@
+# Python build and development files
+__pycache__/
+*.py[cod]
+buildtools/
+builddeps/
+pyinstaller_build/
+
+# Packaged release artefacts
+dist/
+*.exe
+
+# Application data
+filedata.efm
+*.efm.tmp
+
+# Windows and editor files
+Thumbs.db
+Desktop.ini
+.vscode/
